@@ -1,0 +1,27 @@
+{
+  "source": "https://map.gtadb.org/",
+  "tileHost": "https://maps.gtadb.org/tiles",
+  "fetchedAt": "2026-10-08T06:19:23.904Z",
+  "game": 6,
+  "view": {
+    "x": -4000,
+    "y": 2000,
+    "z": 1
+  },
+  "tileSets": [
+    {
+      "name": "yanis,16",
+      "minZoom": 0,
+      "maxZoom": 6,
+      "overlays": false,
+      "urlTemplate": "tiles/6/{tilePath}/{z}/{z},{y},{x}.jpg",
+      "sourceTemplate": "https://maps.gtadb.org/tiles/6/{tilePath}/{z}/{z},{y},{x}.jpg",
+      "tileCount": 34735,
+      "downloaded": 34683,
+      "skipped": 52,
+      "missing": 0,
+      "failed": 0,
+      "failures": []
+    }
+  ]
+}

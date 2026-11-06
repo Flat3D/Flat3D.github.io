@@ -1,0 +1,23 @@
+{
+  "name": "GTA 6 Map — Leonida & Vice City",
+  "short_name": "GTA 6 Map",
+  "description": "Open the GTA 6 map: an interactive atlas of Leonida covering Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, and Mount Kalaga. Search Places and Collectables, switch sheets, and share pins.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#061018",
+  "theme_color": "#061018",
+  "lang": "en",
+  "categories": [
+    "games",
+    "entertainment",
+    "navigation"
+  ],
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
