@@ -59,4 +59,4 @@ Allow: /
 User-agent: DuckAssistBot
 Allow: /
 
-Sitemap: https://flat3d.github.io/sitemap.xml
+Sitemap: https://gta-6-map.com/sitemap.xml
