@@ -2730,5 +2730,5 @@ This site is an unofficial fan atlas. It is not affiliated with Rockstar Games.
 - Game: Grand Theft Auto VI (GTA 6)
 - Setting: Leonida
 - Published regions: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, Mount Kalaga
-- Features: satellite and atlas sheets, region filters, search, shareable pin URLs, local field notes
+- Features: region filters, search, shareable pin URLs, local field notes
 - Status: unofficial fan map; not an official Rockstar map

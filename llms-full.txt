@@ -1,6 +1,6 @@
 # GTA 6 Map — full brief for AI systems
 
-Open the GTA 6 map: an interactive atlas of Leonida covering Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, and Mount Kalaga. Search Places and Collectables, switch sheets, and share pins.
+Open the GTA 6 map: an interactive atlas of Leonida covering Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia, and Mount Kalaga. Search Places and Collectables and share pins.
 
 ## What this product is
 GTA 6 Map is an interactive browser atlas of Leonida, the setting of Grand Theft Auto VI. Players search landmarks, filter Vice City and other published regions, open pins, copy share URLs, and keep field notes in the browser.
@@ -24,7 +24,7 @@ Rockstar has named Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia
 No. GTA 6 Map is an unofficial fan atlas of Leonida. It is not affiliated with Rockstar Games.
 
 ### How do I share a location on this GTA 6 map?
-Open any pin, then use Share or copy the address bar. The link restores the selected place, map style, layers, region, and search so another player lands on the same Leonida view.
+Open any pin, then use Share or copy the address bar. The link restores the selected place, layers, region, and search so another player lands on the same Leonida view.
 
 ## Regions
 ### Vice City

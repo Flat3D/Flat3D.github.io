@@ -1,0 +1,31 @@
+{
+  "source": "https://mapgenie.io/grand-theft-auto-6/maps/leonida",
+  "tileHost": "https://tiles.mapgenie.io/games/",
+  "fetchedAt": "2026-11-23T13:41:34.823Z",
+  "publicTemplate": "/tiles/leonida/{sheet}/{z}/{y}/{x}.jpg",
+  "tileSets": [
+    {
+      "name": "Day",
+      "pattern": "grand-theft-auto-6/leonida/day-v2/{z}/{y}/{x}.jpg",
+      "minZoom": 8,
+      "maxZoom": 16
+    },
+    {
+      "name": "Night",
+      "pattern": "grand-theft-auto-6/leonida/night-v3/{z}/{y}/{x}.jpg",
+      "minZoom": 8,
+      "maxZoom": 16
+    }
+  ],
+  "media": {
+    "downloaded": 958,
+    "skipped": 0,
+    "failed": 0
+  },
+  "tiles": {
+    "downloaded": 174762,
+    "skipped": 0,
+    "missing": 0,
+    "failed": 0
+  }
+}
